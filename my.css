@@ -232,9 +232,9 @@ border-radius: 10px;
 }
 .content1{
   width:60%;
-  height: 55px;
+  height:fit-content;
   background-color:red;
-  margin-top: 6%;
+  margin-top:6%;
   display:flex;
   flex-wrap: wrap;
   
@@ -295,6 +295,7 @@ border-radius: 10px;
 
 
   
+
 
 
 
