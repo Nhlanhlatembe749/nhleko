@@ -162,7 +162,7 @@ border-radius: 10px;
   width:50%;
   min-width:150px;
   background-color: transparent;
-  backdrop-filter:blur(15px);
+  backdrop-filter:blur(40px);
   display:block;
   justify-content: center;
   gap: 10px;
@@ -298,6 +298,7 @@ border-radius: 10px;
 
 
   
+
 
 
 
