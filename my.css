@@ -220,7 +220,7 @@ border-radius: 10px;
   overflow-wrap: break-word;
 }
 .content{
-  width: 30%;
+  width:40%;
   height: fit-content;
   background-color:darkblue;
   margin-top: 6%;
@@ -233,9 +233,9 @@ border-radius: 10px;
 .content1{
   width:20%;
   height: 55px;
-  background-color: white;
+  background-color:red;
   margin-top: 6%;
-  display: flex;
+  display:flex;
   flex-wrap: wrap;
   
 }
@@ -295,6 +295,7 @@ border-radius: 10px;
 
 
   
+
 
 
 
