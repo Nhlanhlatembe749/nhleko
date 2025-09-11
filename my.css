@@ -161,8 +161,8 @@ border-radius: 10px;
   height: 300px;
   width:50%;
   min-width:150px;
-  background-color: transparent;
-  backdrop-filter:blur(40px);
+  background-color:lightgreen;
+  backdrop-filter:blur(10px);
   display:block;
   justify-content: center;
   gap: 10px;
@@ -298,6 +298,7 @@ border-radius: 10px;
 
 
   
+
 
 
 
