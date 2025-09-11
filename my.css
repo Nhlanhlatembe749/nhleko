@@ -225,6 +225,10 @@ border-radius: 10px;
   background-color:darkblue;
   margin-top: 6%;
   box-shadow: 10px 10px rgb(70, 141, 234);
+  display:flex;
+  flex-wrap:wrap;
+  
+  
 }
 .content1{
   width: 10%;
@@ -291,4 +295,5 @@ border-radius: 10px;
 
 
   
+
 
