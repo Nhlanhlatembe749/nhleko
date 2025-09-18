@@ -13,8 +13,8 @@ function change3(){
 }
 
 function check(){
-  const cheek =document.getElementById("ini")
-    if (cheek===null){
+  const cheek =document.getElementById("ini").value.trim();
+    if (cheek===""){
         alert("please fill something")
     }
      else{
@@ -23,5 +23,6 @@ function check(){
      
 
 }
+
 
 
