@@ -165,12 +165,11 @@ border-radius: 10px;
   height: 300px;
   width:50%;
   min-width:150px;
-  background-color:rgba(255,255,255,0.027);
-  backdrop-filter:blur(6px);
+  background-color:lightblue;
   display:block;
   justify-content: center;
   gap: 10px;
-  margin-left: 7%;
+  margin-left: 16%;
   align-items: center;
   text-align: center;
   align-content: center;
@@ -302,6 +301,7 @@ border-radius: 10px;
 
 
   
+
 
 
 
