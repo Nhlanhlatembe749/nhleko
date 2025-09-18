@@ -13,6 +13,13 @@ function change3(){
 }
 
 function check(){
-     alert("submitted successful")
+  const cheek =document.getElementById("ini")
+    if (cheek==null){
+        alert("please fill something")
+    }
+     else{
+         alert("submitted")
+     }
      
+
 }
