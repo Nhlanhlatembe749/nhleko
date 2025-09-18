@@ -148,18 +148,11 @@ button{
 background-color: white;
 height: 70px;
 min-width:100px;
-width: 40%;
+width: 60%;
 border: none;
 border-radius: 10px;
 }
-#ini1{
-background-color: white;
-height: 70px;
-min-width:100px;
-width: 40%;
-border: none;
-border-radius: 10px;
-}
+
 
 .info{
   height: 300px;
@@ -301,6 +294,7 @@ border-radius: 10px;
 
 
   
+
 
 
 
