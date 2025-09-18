@@ -18,12 +18,13 @@ function check(){
         alert("please fill something")
     }
      else{
-         alert("Status :submitted")
-         alert(check)
+         alert("Status :     submitted")
+         alert("info   : " + cheeck)
      }
      
 
 }
+
 
 
 
