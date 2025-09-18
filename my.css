@@ -5,7 +5,8 @@ hr{
 }
 .music2{
   display:flex;
-  column-gap:10px
+  column-gap:10px;
+  position:fixed;
 
 
 }
@@ -300,6 +301,7 @@ border-radius: 10px;
 
 
   
+
 
 
 
