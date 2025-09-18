@@ -3,6 +3,12 @@ hr{
   height:3px;
   background-color: white;
 }
+.music2{
+  display:flex;
+  column-gap:10px
+
+
+}
   
 .container{
   background-color: white;
@@ -148,7 +154,7 @@ button{
 background-color: white;
 height: 70px;
 min-width:100px;
-width: 60%;
+width: 85%;
 border: none;
 border-radius: 10px;
 }
@@ -294,6 +300,7 @@ border-radius: 10px;
 
 
   
+
 
 
 
