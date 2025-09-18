@@ -14,7 +14,7 @@ function change3(){
 
 function check(){
   const cheek =document.getElementById("ini")
-    if (cheek=="null"){
+    if (cheek===null){
         alert("please fill something")
     }
      else{
@@ -23,4 +23,5 @@ function check(){
      
 
 }
+
 
