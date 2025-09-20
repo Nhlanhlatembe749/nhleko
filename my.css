@@ -153,14 +153,16 @@ button{
 
 }
 .footer{
-  background-color:grey;
+  background-color:black;
   color:white;
   font-size: 1em;
   min-width:10%;
-  width:auto;
+  width:93%;
   height:fit-content;
   font-family:Georgia, 'Times New Roman', Times, serif;
   font-weight: bold;
+  display:flex;
+  padding:10px;
 
 
 }  
@@ -203,7 +205,7 @@ border-radius: 10px;
   border-radius: 20px;
   padding: 10px;
   box-shadow: 5px 5px 5px darkblue;
-  display:flex
+  display:block;
   
   
 
@@ -328,6 +330,7 @@ border-radius: 10px;
 
 
   
+
 
 
 
