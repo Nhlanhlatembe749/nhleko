@@ -17,7 +17,7 @@ adv button2{
   width:80px;
 }
 .adv{
-  background-color:lightblue;
+  background-color:darkblue;
   width:100%;
   height:fit-content;
   color:white;
@@ -25,7 +25,7 @@ adv button2{
   justify-content:center;
   text-align:center;
   align-items:center;
-  margin:14px;
+  padding:14px;
   
   
   
@@ -322,6 +322,7 @@ border-radius: 10px;
 
 
   
+
 
 
 
