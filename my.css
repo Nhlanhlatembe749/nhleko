@@ -201,10 +201,11 @@ border-radius: 10px;
   background-color:darkblue;
   justify-content: center;
   gap: 5px;
-  margin-left: 7%;
+  margin-left: 14%;
   align-items: center;
   text-align: center;
   align-content: center;
+  justify-content:center;
   border: solid white 7px;
   border-radius: 20px;
   padding-left: 14%;
@@ -334,6 +335,7 @@ border-radius: 10px;
 
 
   
+
 
 
 
