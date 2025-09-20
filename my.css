@@ -18,6 +18,7 @@ adv button2{
 }
 .adv{
   background-color:darkblue;
+  border:white,solid,5px;
   width:100%;
   height:fit-content;
   color:white;
@@ -322,6 +323,7 @@ border-radius: 10px;
 
 
   
+
 
 
 
