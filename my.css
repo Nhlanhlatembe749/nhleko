@@ -193,10 +193,9 @@ border-radius: 10px;
   width:50%;
   min-width:150px;
   background-color:darkblue;
-  display:block;
   justify-content: center;
-  gap: 10px;
-  margin-left: 16%;
+  gap: 5px;
+  margin-left: 7%;
   align-items: center;
   text-align: center;
   align-content: center;
@@ -204,6 +203,7 @@ border-radius: 10px;
   border-radius: 20px;
   padding: 10px;
   box-shadow: 5px 5px 5px darkblue;
+  display:flex
   
   
 
@@ -328,6 +328,7 @@ border-radius: 10px;
 
 
   
+
 
 
 
