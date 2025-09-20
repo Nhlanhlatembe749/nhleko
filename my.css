@@ -163,6 +163,7 @@ button{
   font-weight: bold;
   display:flex;
   padding:10px;
+  column-gap:10px;
 
 
 }  
@@ -330,6 +331,7 @@ border-radius: 10px;
 
 
   
+
 
 
 
