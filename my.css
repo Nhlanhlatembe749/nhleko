@@ -12,9 +12,11 @@ hr{
 }
 #advbutton1{
   width:100px;
+  border:white solid 4px;
 }
 #advbutton2{
   width:100px;
+ border:white solid 4px;
 }
 .adv{
   background-color:darkblue;
@@ -326,6 +328,7 @@ border-radius: 10px;
 
 
   
+
 
 
 
