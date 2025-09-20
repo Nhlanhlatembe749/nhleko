@@ -11,10 +11,10 @@ hr{
 
 }
 adv button1{
-  width:80px;
+  width:100px;
 }
 adv button2{
-  width:80px;
+  width:100px;
 }
 .adv{
   background-color:darkblue;
@@ -28,6 +28,7 @@ adv button2{
   align-items:center;
   padding:14px;
   flex-wrap:wrap;
+  
   
   
   
@@ -324,6 +325,7 @@ border-radius: 10px;
 
 
   
+
 
 
 
