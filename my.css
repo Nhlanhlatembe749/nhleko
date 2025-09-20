@@ -7,6 +7,9 @@ hr{
   display:flex;
   column-gap:10px;
 }
+#feed{
+  color:white;
+}
 .footer3{
   display:block;
 }
@@ -331,6 +334,7 @@ border-radius: 10px;
 
 
   
+
 
 
 
